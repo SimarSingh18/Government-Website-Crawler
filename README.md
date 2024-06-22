@@ -1,2 +1,2 @@
 # Website-Crawler
-stores the updates
+This project details the development and implementation of a website crawler designed to monitor changes on specified websites and generate PDF reports documenting these changes. The system captures the HTML content of websites, compares it to previously stored versions, and identifies differences. These differences are compiled into a PDF report for user convenience. The project aims to provide a tool for users to easily track updates on websites, ensuring they stay informed about changes.
